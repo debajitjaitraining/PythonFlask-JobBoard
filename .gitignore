@@ -66,3 +66,5 @@ instance/
 # Virtualenv
 venv/
 .venv/
+a_venv/
+.a_venv/
